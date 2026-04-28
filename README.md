@@ -21,6 +21,6 @@ A powerful Python tool designed to scrape, clean, and analyze job postings from 
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/your-username/jobvision-scraper.git
+   https://github.com/Mohammadhkabiri/Job-Scrapper-Python.git
    cd jobvision-scraper
    
